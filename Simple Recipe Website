@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> SIMPLE RECIPE WEBSITE </title>
+</head>
+
+<body>
+
+  <p>
+    <h1> Pineapple Spam Fried Rice </h1>
+    <h3> Ingredients: </h3>
+    <ul>
+      <li> 🍍 Pineapple </li>
+      <li> 🍚 Rice (day old, cold) </li>
+      <li> 🥩 Spam </li>
+      <li> 🫘 Soy Sauce </li>
+      <li> 🫛 Vegetables (carrots, green onion, parsley) </li>
+      <li> 🥚Eggs </li>
+      <li> 🧄Garlic </li>
+      <li> 🏺Sesame oil </li>
+      <li> 🧂Salt and Pepper </li>
+    </ul>
+
+    <h3> Cooking Instructions: </h3>
+    <ol>
+      <li> Cut pineapple into small cubes. </li>
+      <li> Prep ingredients (dice and cut vegetables & garlic).</li>
+      <li> Cut cubed spam into half-inch cubes. </li>
+      <li> In a wok, saute the garlic and white part of the green onions until golden-brown. </li>
+      <li> Add in the rice, break it up in the wok, and fry until ready. </li>
+      <li> Remove from work and set aside. </li>
+      <li> Add sesame oil, stir fry pineapple and vegetables until ready. Set aside. </li>
+      <li> Add sesame oil, fry spam cubes with soy sauce until golden brown. </li>
+      <li> Combine all ingredients and stir fry until ready. </li>
+      <li> Serve and enjoy! </li>
+    </ol>
+  </p>
+
+</body>
+
+</html>
