@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    body {
+     width: 85%;
+     margin: auto;
+   }
+
+    h1 {
+     text-align: left;
+   }
+
+    img {
+      border: 3px solid blue;
+   }
+
+   #top-8-wrapper {
+      text-align: center;
+   }
+
+   .friend-card {
+      display: inline-block;
+      margin: 1px;
+      text-align: center;
+    }
+
+    .friend-name {
+      color: blue;
+    }
+</style>
+
+<body>
+
+  <div id="top-8-wrapper">
+
+    <h1> My Top Friends! </h1>
+    <h3> (Stardew Valley Edition) </h3>
+
+      <div class="top-8-row">
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+           <img alt"Abigial" src="https://stardewvalleywiki.com/mediawiki/images/8/88/Abigail.png">
+            
+        </div>
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Maru" src="https://stardewvalleywiki.com/mediawiki/images/f/f8/Maru.png">
+        </div>
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Sam" src="https://stardewvalleywiki.com/mediawiki/images/9/94/Sam.png">
+        </div>
+
+        <div class= "friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Krobus" src="https://stardewvalleywiki.com/mediawiki/images/7/71/Krobus.png">
+        </div>
+
+      </div>
+
+
+
+
+      <div class="top-8-row">
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+           <img alt"Linus" src="https://stardewvalleywiki.com/mediawiki/images/3/31/Linus.png">
+        </div>
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Elliott" src="https://stardewvalleywiki.com/mediawiki/images/b/bd/Elliott.png">
+        </div>
+
+        <div class="friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Leah" src="https://stardewvalleywiki.com/mediawiki/images/e/e6/Leah.png">
+        </div>
+
+        <div class= "friend-card">
+          <h3 class="friend-name"> </h3>
+            <img alt"Sebastian" src="https://stardewvalleywiki.com/mediawiki/images/a/a8/Sebastian.png">
+        </div>
+      </div>
+    
+  </div>
+
+</body>
+</html>
